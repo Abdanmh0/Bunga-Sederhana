@@ -1,0 +1,23 @@
+* ,
+* body {
+    background-color: rgb(0, 0, 0);
+    height: auto;
+}
+
+.text1 {
+    color: palevioletred;
+    list-style-type: none;
+    font-size: 100px;
+}
+
+.text2 {
+    color: palevioletred;
+    list-style-type: none;
+}
+
+.button {
+    size: 1px;
+    color: rgb(243, 180, 202);
+    border: 1px solid palevioletred;
+    margin: 200px;
+}
